@@ -18,7 +18,7 @@ Rock-paper-scissors (Jokenpô)
 <br>
 <p align="center">
     <a href="https://douglasdl.github.io/Rock-paper-scissors/index.html">
-        <img alt="Jokenpô" src="images/jokenpo.png" width="100%">
+        <img alt="Jokenpô" src="https://douglasdl.github.io/images/jokenpo.png" width="100%">
     </a>
 </p>
 
